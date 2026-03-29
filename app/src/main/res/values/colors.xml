@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App Bar -->
+    <color name="app_bar">#65558f</color>
+
+    <!-- Navigation Bar -->
+    <color name="nav_bar">#f2e9f2</color>
+
+    <!-- Container de Publicação -->
+    <color name="container">#eaddff</color>
+    <color name="container_descricao">#a78dea</color>
+    <color name="container_icones">#65558f</color>
+
+    <!-- Paleta de Botões -->
+    <color name="btn_ativo">#b2b2b2</color>
+    <color name="icone_ativo">#21005d</color>
+    <color name="btn_inativo">#eaddff</color>
+    <color name="icone_inativo">#65558f</color>
+
+    <!-- Paleta de Adição -->
+    <color name="container_adicao">#a78dea</color>
+    <color name="container_selecao">#eaddff</color>
+    <color name="container_nota">#21005d</color>
+</resources>

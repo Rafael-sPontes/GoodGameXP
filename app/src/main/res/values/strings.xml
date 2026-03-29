@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name" translatable="false">GoodGame XP</string>
+    <string name="desenvolvido_por_rafael_pontes_nbrazil_2025">Desenvolvido por. Rafael Pontes \nBrazil, 2025</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_comunidade">Comunidade</string>
+    <string name="btn_meus_jogos">Meus Jogos</string>
+    <string name="act_buscar_jogo">Buscar Jogo</string>
+    <string name="act_comunidade">Comunidade</string>
+    <string name="act_meus_jogos">Meus Jogos</string>
+    <string name="act_cadastro_de_jogatina">Cadastro de Jogatina</string>
+    <string name="hint_titulo">Título</string>
+    <string name="hint_plataforma">Plataforma</string>
+    <string name="txt_progresso">Progresso</string>
+    <string name="txt_nota">Nota</string>
+    <string name="btn_editar">Editar</string>
+    <string name="btn_concluir">Concluir</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="bnt_salvar_alteracoes">Salvar Alterações</string>
+    <string name="btn_adicionar_jogo">Adicionar Jogo</string>
+    <string name="dial_instrucoes_e_botoes">Instruções e Botões:</string>
+    <string name="dial_mensagem_ajuda">[+] Adicionar uma nova jogatina\n\n[Editar] Editar uma jogatina existente\n\n[Duplo Toque] Visualizar review da jogatina\n\n[Segurar] Excluir uma jogatina existente</string>
+    <string name="txt_selecionar_jogo">Selecione o jogo que está zerando</string>
+    <string name="txt_selecionar_plataforma">Selecione em qual plataforma está jogando</string>
+    <string name="toast_acesse_em_meus_jogos">Acesse em Meus Jogos</string>
+    <string name="toast_activity_atual">Activity Atual</string>
+    <string name="snack_jogatina">Jogatina </string>
+    <string name="snack_jogo_criado">, Criado com Sucesso!</string>
+    <string name="snack_jogo_atualizado">, Atualizado com Sucesso!</string>
+    <string name="dial_deseja_excluir">Deseja excluir sua Jogatina em </string>
+    <string name="dial_jogo_removido">, removida com Sucesso!</string>
+</resources>

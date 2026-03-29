@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desenvolvido_por_rafael_pontes_nbrazil_2025">Developed by. Rafael Pontes\nBrazil, 2025</string>
+    <string name="btn_buscar">Search</string>
+    <string name="btn_comunidade">Community</string>
+    <string name="btn_meus_jogos">My Games</string>
+    <string name="act_buscar_jogo">Search Game</string>
+    <string name="act_comunidade">Community</string>
+    <string name="act_meus_jogos">My Games</string>
+    <string name="act_cadastro_de_jogatina">Gameplay Register</string>
+    <string name="hint_titulo">Title</string>
+    <string name="hint_plataforma">Platform</string>
+    <string name="txt_progresso">Progress</string>
+    <string name="txt_nota">Rate</string>
+    <string name="btn_editar">Edit</string>
+    <string name="btn_concluir">Accept</string>
+    <string name="btn_cancelar">Cancel</string>
+    <string name="bnt_salvar_alteracoes">Save Changes</string>
+    <string name="btn_adicionar_jogo">Add Game</string>
+    <string name="dial_instrucoes_e_botoes">Instructions and Buttons:</string>
+    <string name="dial_mensagem_ajuda">[+] Add a new gameplay\n\n[Edit] Edit an existing gameplay\n\n[Double Tap] View gameplay review\n\n[Hold] Delete an existing gameplay</string>
+    <string name="txt_selecionar_jogo">Select a game to beat</string>
+    <string name="txt_selecionar_plataforma">Select a platform for gameplay</string>
+    <string name="toast_acesse_em_meus_jogos">Access in My Games</string>
+    <string name="toast_activity_atual">Current Activity</string>
+    <string name="snack_jogo_criado">, Created with Success!</string>
+    <string name="snack_jogo_atualizado">, Updated with Success!</string>
+    <string name="snack_jogatina">Gameplay</string>
+    <string name="dial_deseja_excluir">"Do you want to delete the gameplay in "</string>
+    <string name="dial_jogo_removido">, removed with Success!</string>
+</resources>
