@@ -87,8 +87,8 @@
 
 <ul>
 	<li><a href="https://github.com/Rafael-sPontes/GoodGameXP" target="_self" rel="author"><i>Repositório do GitHub</i></a></li>
-	<li><a href="#" target="_blank" rel="author"><i>Video no YouTube</i></a></li>
-	<li><a href="#" target="_blank" rel="author"><i>Video no GoogleDrive</i></a></li>
+	<li><a href="https://youtu.be/65kqA5gDUKo" target="_blank" rel="author"><i>Video no YouTube</i></a></li>
+	<li><a href="https://drive.google.com/file/d/1Je0WwywiQoBAvhe-dVOywRs_M83Q5O-S/view?usp=sharing" target="_blank" rel="author"><i>Video no GoogleDrive</i></a></li>
 </ul>
 
 <hr>
