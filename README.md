@@ -2,7 +2,7 @@
 
 <h2>🎮 Sobre o Projeto</h2>
 
-<p>O GGXP é um organizador pessoal de jogatinas desenvolvido como projeto final para a especialização em Mobile App Development (PUCPR). O app permite que usuários cataloguem seus jogos, acompanhem o progresso e registrem reviews.</p>
+<p>O GGXP é um organizador pessoal de jogatinas desenvolvido como projeto final para a Disciplina de Desenvolvimento Mobile Profissional (PUCPR). O app permite que usuários cataloguem seus jogos, acompanhem o progresso e registrem reviews.</p>
 
 <hr>
 
