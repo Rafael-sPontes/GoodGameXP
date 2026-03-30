@@ -21,7 +21,7 @@
 <hr>
 
 <h3>2. Injeção de Dependência (Hilt)</h3>
-<p>Implementamos o Hilt para desacoplar as dependências e facilitar a testabilidade.</p>
+<p>Implementação do Hilt para desacoplar as dependências e facilitar a testabilidade.</p>
 
 <ul>
 	<li>Application Class: <code>GGXPApplication</code> anotada com <code>@HiltAndroidApp</code>.</li>
@@ -54,7 +54,7 @@
 <hr>
 
 <h3>5. Testes Unitários</h3>
-<p>O projeto contém uma suíte de 5 testes unitários localizados em <code>src/test/java/.../GameEntityTest.kt</code>.</p>
+<p>O projeto contém um total de 5 testes unitários localizados em <code>GoodGameXP\app\src\test\java\com\rafael\appdev\goodgamexp/GameEntityTest.kt</code>.</p>
 
 <ul>
 	<li>Os testes validam a integridade da entidade <code>Game</code>, formatação de strings de progresso e comportamento de IDs automáticos.</li>
@@ -77,11 +77,7 @@
 
 <ol>
 	<li>Clone o repositório.</li>
-	<li>Configuração do Ambiente:
-		<ul>
-			<li>Certifique-se de que o Android Studio está configurado para usar o JDK 21 (JetBrains Runtime 21.0.9), conforme as configurações de build do projeto.</li>
-		</ul>
-	</li>
+	<li>Configuração do Ambiente: utilize o JDK 21 (Recomendado: JetBrains Runtime 21.0.9)</li>
 	<li>Sincronize o Gradle: utilize Kotlin 2.x e Room 2.x.</li>
 </ol>
 
@@ -90,7 +86,7 @@
 <h3>🔗 Links</h3>
 
 <ul>
-	<li><a href="#" target="_blank" rel="author"><i>Repositório do GitHub</i></a></li>
+	<li><a href="https://github.com/Rafael-sPontes/GoodGameXP" target="_self" rel="author"><i>Repositório do GitHub</i></a></li>
 	<li><a href="#" target="_blank" rel="author"><i>Video no YouTube</i></a></li>
 	<li><a href="#" target="_blank" rel="author"><i>Video no GoogleDrive</i></a></li>
 </ul>
